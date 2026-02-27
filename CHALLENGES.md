@@ -8,3 +8,4 @@
 | 2026-02-24 | Rust | Temperature Converter | Beginner | Build a temperature converter using enums, methods, and Display trait |
 | 2026-02-25 | Python | LRU Cache | Intermediate | Implement a Least Recently Used cache with O(1) get/put using a hashmap + doubly-linked list |
 | 2026-02-26 | Rust | Log Analyzer | Intermediate | Parse log entries and aggregate by level, find most common error, build hourly timeline using HashMap and iterators |
+| 2026-02-27 | TypeScript | Inventory Tracker | Beginner | Build an inventory tracker class using Map with add/remove/total/search operations |
