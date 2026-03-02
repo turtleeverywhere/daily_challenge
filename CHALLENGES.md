@@ -11,3 +11,4 @@
 | 2026-02-27 | TypeScript | Inventory Tracker | Beginner | Build an inventory tracker class using Map with add/remove/total/search operations |
 | 2026-02-28 | Python | Task Scheduler | Advanced | Build a dependency-aware task scheduler using topological sort and critical path analysis |
 | 2026-03-01 | Python | Async Rate Limiter | Advanced | Implement a token-bucket rate limiter using asyncio with concurrent safety and burst support |
+| 2026-03-02 | Rust | Markdown Link Extractor | Beginner | Parse markdown text to extract all `[text](url)` links using string slicing and a state-based scanner |
