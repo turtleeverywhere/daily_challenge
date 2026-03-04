@@ -13,3 +13,4 @@
 | 2026-03-01 | Python | Async Rate Limiter | Advanced | Implement a token-bucket rate limiter using asyncio with concurrent safety and burst support |
 | 2026-03-02 | Rust | Markdown Link Extractor | Beginner | Parse markdown text to extract all `[text](url)` links using string slicing and a state-based scanner |
 | 2026-03-03 | Python | JSON Config Validator | Beginner | Validate a config dict against a schema with type checking, required-key enforcement, and helpful error messages |
+| 2026-03-04 | Python | Trie Autocomplete | Intermediate | Implement a prefix tree with insert, search, autocomplete, and prefix counting |
