@@ -15,3 +15,4 @@
 | 2026-03-03 | Python | JSON Config Validator | Beginner | Validate a config dict against a schema with type checking, required-key enforcement, and helpful error messages |
 | 2026-03-04 | Python | Trie Autocomplete | Intermediate | Implement a prefix tree with insert, search, autocomplete, and prefix counting |
 | 2026-03-05 | Rust | TTL Cache | Intermediate | Build a generic in-memory key-value store with time-based expiration using HashMap and Instant |
+| 2026-03-06 | TypeScript | Shopping Cart Discounts | Beginner | Calculate cart totals with buy-2-get-1, category percentage, and fixed cart-wide discounts |
